@@ -30,7 +30,9 @@
   min-width: 250px;
   min-height: 100px;
 }
-
+.nav {
+Width:100%;
+}
 .nav .lista {
   list-style: none;
   display: flex;
