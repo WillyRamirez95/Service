@@ -145,6 +145,10 @@ row{
 
 
 @media (max-width: 540px) {
+.nav .lista .menú a{
+Padding-top:5px,
+Padding-bottom:5px}
+2
     .main .text {
       padding: 20px;
       font-size: 18px;
